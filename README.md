@@ -1,2 +1,2 @@
-This a learning projetc to put an ecommerce on air. 
+This a learning projetc to put an simple commerce webpage online. 
 by @rosirdgs
